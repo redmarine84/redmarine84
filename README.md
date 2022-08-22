@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @redmarine84
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C++, Java, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++, C#, JavaScript, Java, Python, etc...
+- 📫 How to reach me ... redheadusmc@gmail.com
 
 <!---
-redmarine84/redmarine84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+The repositories included within this profile are from my personal creations or projects still in the works or they are from my school.
 --->
